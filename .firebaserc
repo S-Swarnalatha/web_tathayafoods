@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "webappsomt",
+    "staging": "tathaya-foods",
+    "yes": "somtwebapps"
+  }
+}

@@ -1,0 +1,9 @@
+.login,
+.image {
+  min-height: 100vh;
+}
+.bg-image {
+  background-image: url('http://farm3.staticflickr.com/2674/3836508372_7313a6630b.jpg');
+  background-size: cover;
+  background-position: center center;
+}
